@@ -1,0 +1,13 @@
+streamlit
+base64
+pandas
+random
+faker
+hashlib
+datetime
+os
+time
+PyPDF2
+io
+reportlab
+
